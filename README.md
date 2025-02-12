@@ -33,7 +33,7 @@ You can also receive alerts directly in Google Chat by integrating the webhook p
 ### **1. Clone the Repository**
 
 ```bash
-git clone git@github.com:haulmer/filesystem-monitor-space.git
+git clone https://github.com/peperiqueelmee/filesystem-monitor-space.git
 ```
 
 ### **2. Access the Project Directory**
